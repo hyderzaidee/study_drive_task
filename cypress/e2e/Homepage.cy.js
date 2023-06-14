@@ -28,8 +28,4 @@ it('should complete signup and onboarding', function() {
     homepage_objects.select_semester().click();
     homepage_objects.continue_btn().click();
 
-
-
-
-
 });
